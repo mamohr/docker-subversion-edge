@@ -1,4 +1,4 @@
-FROM mamohr/centos-java
+FROM mamohr/centos-java:jre8
 
 MAINTAINER Mario Mohr <mohr.mario@gmail.com>
 
